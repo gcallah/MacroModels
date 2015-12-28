@@ -2,6 +2,6 @@
 Some macroeconomic models:
 * Keynesian Cross
 * Real, nominal and inflation calculator.
-* PPF model (coming soon)
+* PPF model (in progress)
 
 You are welcome to use these in your classes.
